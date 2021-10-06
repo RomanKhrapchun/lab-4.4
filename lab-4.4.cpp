@@ -8,6 +8,7 @@ int main()
 {
     double x, y, xp, xk, dx, R;
 
+    cout << "x = "; cin >> x;
     cout << "xp = "; cin >> xp;
     cout << "xk = "; cin >> xk;
     cout << "dx = "; cin >> dx;
